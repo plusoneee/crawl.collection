@@ -3,11 +3,6 @@
 ### Dependencies
 Python3, Scrapy
 
-### Clone
-```
-git clone https://github.com/plusoneee/cl.lyrics.git
-```
-
 ### Install Requirement
 ```
 pip install -r requirements.txt
